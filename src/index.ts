@@ -1,3 +1,4 @@
+export * from "./utils";
 export * from "./service/RpcClient";
 export * from "./adapter/FiveMTransport";
 export * from "./adapter/MockTransport";
